@@ -1,0 +1,26 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+To report a security vulnerability, please email [your-email@example.com] directly. Do not create an issue in the repository.
+
+Please include the following information in your report:
+- Description of the vulnerability
+- Steps to reproduce the issue
+- Suggested fixes (if any)
+
+## Supported Versions
+
+We actively support the following versions of this project:
+- Version 1.x.x (latest stable release)
+- Version 0.x.x (long-term support)
+
+## Security Updates
+
+Once a security vulnerability has been verified, we will work on a fix and release it as quickly as possible. Security patches will be communicated via GitHub Issues and will be marked as high priority.
+
+We will also publish a security advisory to notify users of the vulnerability and the patch.
+
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](link-to-your-code-of-conduct).
